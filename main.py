@@ -128,3 +128,7 @@ if uploaded_file is not None:
         file_name="processed_image.png",
         mime="image/png"
     )
+
+
+# Save the file as main.py and run:
+# streamlit run main.py
